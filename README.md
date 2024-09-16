@@ -124,7 +124,7 @@ Example Response:
 ```json
 {
   "id": 1,
-  "name": "Frank",
+  "name": "Fido",
   "fromPetShop": true,
   "image": "./images/dog.jpeg",
   "animal_type": "Dog"
